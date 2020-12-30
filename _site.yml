@@ -1,0 +1,8 @@
+name: "Lucerne R User Group"
+navbar:
+  title: "Lucerne R User Group"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
